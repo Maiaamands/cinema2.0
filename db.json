@@ -1,0 +1,114 @@
+
+    
+{
+    "Filmes de Terror":[
+        {
+            "id": 1,
+            "titulo": "It - A Coisa",
+            "ano": "2017",
+            "Roteiro": "Andy Muschietti",
+            "imagem": "https://hbomax-images.warnermediacdn.com/images/GWt7vKAJzFri8vQEAAAKm/tile?size=640x360&partner=hbomaxcom&v=85ad259a1cb6b3d0091a77eeb3443a7c&host=art-gallery.api.hbo.com&language=pt-br"
+        },
+    
+
+        {
+            "id": 2,
+            "titulo": "Brinquedo Assassino",
+            "ano": "1988",
+            "Roteiro": "Tom Holland",
+            "imagem": "https://www.correio24horas.com.br/fileadmin/user_upload/correio24horas/2021/10/27/chucky_2.jpg"
+
+        },
+    
+        {
+            "id": 3,
+            "titulo": "Tubarão - Mar de Sangue",
+            "ano": "2022",
+            "Roteiro": " James Nunn",
+            "imagem": "https://t.ctcdn.com.br/qqKgMMXIOHhGx7YULWlcZCT4LG8=/720x405/smart/filters:format(webp)/i643973.jpeg"
+
+        },
+
+        {
+   
+            "id": 4,
+            "titulo": "A Maldição do Quarto 203",
+            "ano": "2022",
+            "Roteiro": "Ben Jagger",
+            "imagem": "https://cinepop.com.br/wp-content/uploads/2022/09/maldicaodoquarto203_1.jpg"
+
+        }
+    ],
+        
+    "Filmes Infantil":[
+        {
+            "id": 1,
+            "titulo": "Encanto",
+            "ano": "2021",
+            "Roteiro": "Charise Castro Smith",
+            "imagem": "https://rollingstone.uol.com.br/media/_versions/encanto_foto_reproducaodisney_widelg.jpg"
+        },
+ 
+        {
+    
+            "id": 2,
+            "titulo": "Sonic: O Filme",
+            "ano": "2020",
+            "Roteiro": "Patrick Casey ",
+            "imagem": "https://s2.glbimg.com/9BgIHgVYA95iLK3Qy3zgCOYp9f0=/e.glbimg.com/og/ed/f/original/2020/02/12/sonic1.jpg"
+        },
+
+        {
+
+            "id": 3,
+            "titulo": "Pinóquio",
+            "ano": "2022",
+            "Roteiro": "Patrick McHale ",
+            "imagem": "https://quartaparede.com.br/wp-content/uploads/2022/09/pinoquio-2022-bastidores.jpg"
+        },
+       {
+            "id": 4,
+            "titulo": "Os caras malvados",
+            "ano": "2022",
+            "Roteiro": "Hilary Winston",
+            "imagem": "https://www.universalpics.com.br/tl_files/content/movies/bad_guys/posters/01.jpg"
+       }
+    ],
+        
+    "Filmes de Comedia": [
+        {
+            "id": 1,
+            "titulo": "Minha Mãe é Uma Peça 2",
+            "ano": "2016",
+            "Roteiro": "Paulo Gustavo",
+            "imagem": "https://abcine.org.br/site/wp-content/uploads/2016/12/minnhamaeeumapeca2-617x509.jpg"
+
+        },
+    
+        {
+    
+            "id": 2,
+            "titulo": "Meninas Malvadas",
+            "ano": "2004",
+            "Roteiro": "Tina Fey",
+            "imagem": "https://tramasdoroteiro.files.wordpress.com/2016/10/meninas-malvadas_poster.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Diário de um Banana",
+            "ano": "2010",
+            "Roteiro": "Gabe Sachs ",
+            "imagem": "https://i1.wp.com/cultetc.com/wp-content/uploads/2017/07/Di%C3%A1rio-de-Um-Banana-Caindo-na-Estrada.jpg?w=1280"
+        },
+
+        {
+            "id": 4,
+            "titulo": "Dia Do Sim",
+            "ano": "2021",
+            "Roteiro": " Justin Malen",
+            "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/21/02/10/18/14/0693859.jpg "
+
+        }
+    ]        
+}
+
